@@ -13,6 +13,7 @@ public class EmployeeAndFactory {
             employee.calculatePay();
             employee.deliverPay(10);
             employee.isPayday();
+
         }catch (Exception e){
             System.out.println("employee type is wrong");
         }
