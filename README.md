@@ -36,3 +36,5 @@
 | 2023.03.05 | 2. 의미 있는 이름 | [김형욱](https://morning-paprika-8fa.notion.site/dc96fc0af88b466c960d53553d9bd614) | [Issue#2](https://github.com/Dev-Prison/Clean-Code/issues/3) |
 | 2023.03.12 | 3. 함수 | [이용훈](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch03_%ED%95%A8%EC%88%98.md) | [Issue#3](https://github.com/Dev-Prison/Clean-Code/issues/5) |
 | 2023.03.19 | 4. 주석 | [이연우](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch04_%EC%A3%BC%EC%84%9D.md) | [Issue#4](https://github.com/Dev-Prison/Clean-Code/issues/8)|
+| 2023.04.06 | 5. 형식 맞추기 | [김형욱](https://morning-paprika-8fa.notion.site/acc485d4edf64275bdb09b635da3c850) | [Issue#5](https://github.com/Dev-Prison/Clean-Code/issues/11)|
+| 2023.04.06 | 6. 객체와 자료 구조 | [김형욱](https://morning-paprika-8fa.notion.site/0d5be3f386844d4eb4f41ab49f20e0aa) | [Issue#6](https://github.com/Dev-Prison/Clean-Code/issues/12)|
