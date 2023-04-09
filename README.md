@@ -6,8 +6,8 @@
     
 ### ☕️ 스터디 규칙
 
-- 발표순서 : **김형욱** - **이연우** - 이용훈
-- 스크럼마스터 : **김형욱** - 이연우 - 이용훈
+- 발표순서 : **김형욱** - 이연우 - **이용훈**
+- 스크럼마스터 : 김형욱 - 이연우 - 이용훈
 - 스터디 시간 4시간 전 까지 발표자는 발표자료를 Github에 업로드 해야 합니다.
 - 발표자 외 스터디 시간 전까지 Issue 를 통해 주제마다 질문을 한개씩 등록해야 합니다.
 
@@ -38,3 +38,4 @@
 | 2023.03.19 | 4. 주석 | [이연우](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch04_%EC%A3%BC%EC%84%9D.md) | [Issue#4](https://github.com/Dev-Prison/Clean-Code/issues/8)|
 | 2023.04.06 | 5. 형식 맞추기 | [김형욱](https://morning-paprika-8fa.notion.site/acc485d4edf64275bdb09b635da3c850) | [Issue#5](https://github.com/Dev-Prison/Clean-Code/issues/11)|
 | 2023.04.06 | 6. 객체와 자료 구조 | [김형욱](https://morning-paprika-8fa.notion.site/0d5be3f386844d4eb4f41ab49f20e0aa) | [Issue#6](https://github.com/Dev-Prison/Clean-Code/issues/12)|
+| 2023.04.09 | 7. 오류 처리 | [이용훈](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch07_%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md) | [Issue#6](https://github.com/Dev-Prison/Clean-Code/issues/15)|
