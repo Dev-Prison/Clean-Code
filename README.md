@@ -32,12 +32,12 @@
 
 |   스터디날짜    | 주제 | 발표자_링크 |    질문목록 |
 |:----------:|:---:|:----------:|:----------:|
-| 2023.03.05 | [1. 깨끗한 코드](https://morning-paprika-8fa.notion.site/7c828fa6634f4adfa3268dd0efadfeaf) | [Issue#1](https://github.com/Dev-Prison/Clean-Code/issues/1) | 김형욱 |
-| 2023.03.05 | [2. 의미 있는 이름](https://morning-paprika-8fa.notion.site/dc96fc0af88b466c960d53553d9bd614) | [Issue#2](https://github.com/Dev-Prison/Clean-Code/issues/3) | 김형욱 |
-| 2023.03.12 | [3. 함수](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch03_%ED%95%A8%EC%88%98.md) | [Issue#3](https://github.com/Dev-Prison/Clean-Code/issues/5) | 이용훈 |
-| 2023.03.19 | [4. 주석](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch04_%EC%A3%BC%EC%84%9D.md) | [Issue#4](https://github.com/Dev-Prison/Clean-Code/issues/8) | 이연우|
-| 2023.04.06 | [5. 형식 맞추기](https://morning-paprika-8fa.notion.site/acc485d4edf64275bdb09b635da3c850) | [Issue#5](https://github.com/Dev-Prison/Clean-Code/issues/11) | 김형욱|
-| 2023.04.06 | [6. 객체와 자료 구조](https://morning-paprika-8fa.notion.site/0d5be3f386844d4eb4f41ab49f20e0aa) | [Issue#6](https://github.com/Dev-Prison/Clean-Code/issues/12) | 김형욱|
+| 2023.03.05 | [1. 깨끗한 코드](https://morning-paprika-8fa.notion.site/7c828fa6634f4adfa3268dd0efadfeaf) | 김형욱 | [Issue#1](https://github.com/Dev-Prison/Clean-Code/issues/1) |
+| 2023.03.05 | [2. 의미 있는 이름](https://morning-paprika-8fa.notion.site/dc96fc0af88b466c960d53553d9bd614) | 김형욱 | [Issue#2](https://github.com/Dev-Prison/Clean-Code/issues/3) |
+| 2023.03.12 | [3. 함수](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch03_%ED%95%A8%EC%88%98.md) | 이용훈 | [Issue#3](https://github.com/Dev-Prison/Clean-Code/issues/5) |
+| 2023.03.19 | [4. 주석](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch04_%EC%A3%BC%EC%84%9D.md) | 이연우 | [Issue#4](https://github.com/Dev-Prison/Clean-Code/issues/8) |
+| 2023.04.06 | [5. 형식 맞추기](https://morning-paprika-8fa.notion.site/acc485d4edf64275bdb09b635da3c850) | 김형욱 | [Issue#5](https://github.com/Dev-Prison/Clean-Code/issues/11) |
+| 2023.04.06 | [6. 객체와 자료 구조](https://morning-paprika-8fa.notion.site/0d5be3f386844d4eb4f41ab49f20e0aa) | 김형욱 | [Issue#6](https://github.com/Dev-Prison/Clean-Code/issues/12) |
 | 2023.04.09 | [7. 오류 처리](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch07_%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md) | 이용훈 | [Issue#7](https://github.com/Dev-Prison/Clean-Code/issues/15)|
 | 2023.04.24 | [9. 단위 테스트](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch09_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8.md) | 이연우 | [Issue#9](https://github.com/Dev-Prison/Clean-Code/issues/18)
 | 2023.05.07 | [10. 클래스](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch10_%ED%81%B4%EB%9E%98%EC%8A%A4.md) | 이연우 | [Issue#10](https://github.com/Dev-Prison/Clean-Code/issues/21)
