@@ -30,7 +30,7 @@
 
 ## 🍄 Item List
 
-|   스터디날짜    | 주제 | 발표자_링크 |    질문목록 |
+|   스터디날짜    | 주제 | 발표자 |    질문목록 |
 |:----------:|:---:|:----------:|:----------:|
 | 2023.03.05 | [1. 깨끗한 코드](https://morning-paprika-8fa.notion.site/7c828fa6634f4adfa3268dd0efadfeaf) | 김형욱 | [Issue#1](https://github.com/Dev-Prison/Clean-Code/issues/1) |
 | 2023.03.05 | [2. 의미 있는 이름](https://morning-paprika-8fa.notion.site/dc96fc0af88b466c960d53553d9bd614) | 김형욱 | [Issue#2](https://github.com/Dev-Prison/Clean-Code/issues/3) |
