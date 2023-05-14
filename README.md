@@ -41,3 +41,5 @@
 | 2023.04.09 | [7. 오류 처리](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch07_%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md) | 이용훈 | [Issue#7](https://github.com/Dev-Prison/Clean-Code/issues/15)|
 | 2023.04.24 | [9. 단위 테스트](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch09_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8.md) | 이연우 | [Issue#9](https://github.com/Dev-Prison/Clean-Code/issues/18)
 | 2023.05.07 | [10. 클래스](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch10_%ED%81%B4%EB%9E%98%EC%8A%A4.md) | 이연우 | [Issue#10](https://github.com/Dev-Prison/Clean-Code/issues/21)
+| 2023.05.14 | [11. 시스템]() | 이용훈 | [Issue#11](https://github.com/Dev-Prison/Clean-Code/issues/24)
+| 2023.05.00 | [12. 창발성]() | --- | [Issue#12]()
