@@ -6,7 +6,7 @@
     
 ### ☕️ 스터디 규칙
 
-- 발표순서 : **김형욱** - 이연우 - 김수미 - **이용훈**
+- 발표순서 : 김형욱 - **이연우** - **김수미** - 이용훈
 - 스크럼마스터 : 김형욱 - 이연우 - 김수미 - 이용훈
 - 스터디 시간 4시간 전 까지 발표자는 발표자료를 Github에 업로드 해야 합니다.
 - 발표자 외 스터디 시간 전까지 Issue 를 통해 주제마다 질문을 한개씩 등록해야 합니다.
@@ -43,4 +43,5 @@
 | 2023.05.07 | [10. 클래스](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch10_%ED%81%B4%EB%9E%98%EC%8A%A4.md) | 이연우 | [Issue#10](https://github.com/Dev-Prison/Clean-Code/issues/21)
 | 2023.05.14 | [11. 시스템](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch11_%EC%8B%9C%EC%8A%A4%ED%85%9C.md) | 이용훈 | [Issue#11](https://github.com/Dev-Prison/Clean-Code/issues/24)
 | 2023.05.21 | [12. 창발성](https://kimsumi.notion.site/12-47111bf46664480fb2d22d00a488bb75) | 김수미 | [Issue#12](https://github.com/Dev-Prison/Clean-Code/issues/28)
-| 2023.05.00 | [13. 동시성]() | --- | [Issue#13]()
+| 2023.05.28 | [13. 동시성](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch13_%EB%8F%99%EC%8B%9C%EC%84%B1.md) | 이용훈 | [Issue#13](https://github.com/Dev-Prison/Clean-Code/issues/31)
+| 2023.05.00 | [14. 점진적인 개선]() | --- | [Issue#15]()
