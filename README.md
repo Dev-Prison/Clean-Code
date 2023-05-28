@@ -44,4 +44,4 @@
 | 2023.05.14 | [11. 시스템](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch11_%EC%8B%9C%EC%8A%A4%ED%85%9C.md) | 이용훈 | [Issue#11](https://github.com/Dev-Prison/Clean-Code/issues/24)
 | 2023.05.21 | [12. 창발성](https://kimsumi.notion.site/12-47111bf46664480fb2d22d00a488bb75) | 김수미 | [Issue#12](https://github.com/Dev-Prison/Clean-Code/issues/28)
 | 2023.05.28 | [13. 동시성](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch13_%EB%8F%99%EC%8B%9C%EC%84%B1.md) | 이용훈 | [Issue#13](https://github.com/Dev-Prison/Clean-Code/issues/31)
-| 2023.05.00 | [14. 점진적인 개선]() | --- | [Issue#14]()
+| 2023.05.00 | [14. 점진적인 개선 (1) ~ 272p]() | --- | [Issue#14]()
