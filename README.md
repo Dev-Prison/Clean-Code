@@ -47,3 +47,5 @@
 | 2023.06.04 | [14. 점진적인 개선 (1) ~ 272p](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch13_%EC%A0%90%EC%A7%84%EC%A0%81_%EA%B0%9C%EC%84%A0.md) | 이연우 | [Issue#33](https://github.com/Dev-Prison/Clean-Code/issues/33)
 | 2023.06.18 | [14. 점진적인 개선 (2) ~ 299p](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch13_%EC%A0%90%EC%A7%84%EC%A0%81_%EA%B0%9C%EC%84%A0.md) | 이연우 | [Issue#35](https://github.com/Dev-Prison/Clean-Code/issues/35)
 | 2023.06.25 | [14. 점진적인 개선 (3) ~ 321p](https://kimsumi.notion.site/14-3-f321149718b942b2bf0c1f2f7cccb824) | 김수미 | [Issue#37](https://github.com/Dev-Prison/Clean-Code/issues/37)
+| 2023.07.09 | [15. JUnit 들여다보기]() | 김형욱 | [Issue#40](https://github.com/Dev-Prison/Clean-Code/issues/40)
+| 2023.07.16 | [16. SerialDate 리팩터링]() | . | [Issue#.](https://github.com/Dev-Prison/Clean-Code/issues/40)
