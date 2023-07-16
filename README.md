@@ -48,4 +48,5 @@
 | 2023.06.18 | [14. 점진적인 개선 (2) ~ 299p](https://github.com/Dev-Prison/Clean-Code/blob/main/ynoolee/ch13_%EC%A0%90%EC%A7%84%EC%A0%81_%EA%B0%9C%EC%84%A0.md) | 이연우 | [Issue#35](https://github.com/Dev-Prison/Clean-Code/issues/35)
 | 2023.06.25 | [14. 점진적인 개선 (3) ~ 321p](https://kimsumi.notion.site/14-3-f321149718b942b2bf0c1f2f7cccb824) | 김수미 | [Issue#37](https://github.com/Dev-Prison/Clean-Code/issues/37)
 | 2023.07.09 | [15. JUnit 들여다보기]() | 김형욱 | [Issue#40](https://github.com/Dev-Prison/Clean-Code/issues/40)
-| 2023.07.16 | [16. SerialDate 리팩터링]() | . | [Issue#42](https://github.com/Dev-Prison/Clean-Code/issues/42)
+| 2023.07.16 | [16. SerialDate 리팩터링](https://github.com/Dev-Prison/Clean-Code/blob/main/yonghoon/ch16_SerialDate%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81.md) | 이용훈 | [Issue#42](https://github.com/Dev-Prison/Clean-Code/issues/42)
+| 2023.07.23 | [17. 냄세와 휴리스틱(1) C1~G25]() | . | [Issue#45]([https://github.com/Dev-Prison/Clean-Code/issues/42](https://github.com/Dev-Prison/Clean-Code/issues/45)https://github.com/Dev-Prison/Clean-Code/issues/45)
